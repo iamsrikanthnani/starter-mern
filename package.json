@@ -1,0 +1,23 @@
+{
+  "name": "starter-mern",
+  "version": "1.0.0",
+  "description": "A starter project for anyone looking to dive into web development using the MERN stack.",
+  "main": "index.js",
+  "author": "github/iamsrikanthnani",
+  "license": "MIT",
+  "scripts": {
+    "start:client": "cd movie-app && npm start",
+    "start:server": "cd server && node index.js"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamsrikanthnani/starter-mern.git"
+  },
+  "keywords": [
+    "mern",
+    "starter",
+    "web development",
+    "beginner-friendly"
+  ]
+}

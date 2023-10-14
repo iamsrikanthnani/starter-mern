@@ -1,0 +1,17 @@
+{
+  "name": "starter-mern-server",
+  "version": "1.0.0",
+  "description": "Backend application for the MERN stack starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "github/iamsrikanthnani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.2"
+  }
+}
