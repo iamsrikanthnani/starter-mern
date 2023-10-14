@@ -6,6 +6,7 @@
   "author": "github/iamsrikanthnani",
   "license": "MIT",
   "scripts": {
+    "install:all": "cd movie-app && npm install && cd - && cd server && npm install && cd -",
     "start:client": "cd movie-app && npm start",
     "start:server": "cd server && node index.js"
   },
